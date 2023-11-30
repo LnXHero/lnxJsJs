@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    width: 690px;
+    background-color: aqua;
+    display: flex;
+    height: 210px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.containerBranco {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerBranco p {
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+button {
+    margin-top: 76px;
+}
+
+.containerBranco img {
+    margin-top: 20px;
+}
+
+img {
+    width: 140px;
+    height: 80px;
+}
+
+h2 {
+    color: white;
+}
+
+.brasilContainer {
+    width: 230px;
+    height: 100%;
+    background-color: green;
+    text-align: center;
+}
+
+.italiaContainer {
+    width: 230px;
+    height: 100%;
+    background-color: blue;
+    text-align: center; 
+}

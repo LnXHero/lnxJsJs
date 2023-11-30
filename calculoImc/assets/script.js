@@ -6,5 +6,5 @@ calcular.addEventListener("click", function(){
 
     const total = document.getElementById("total")
 
-    total.textContent = (peso1 / (altura1 * altura1)).toFixed(2)
+    total.textContent = Number(peso1 / (altura1 * altura1)).toFixed(2)
 })
