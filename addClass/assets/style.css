@@ -1,0 +1,17 @@
+.padrao {
+    line-height: 100px;
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+}
+
+.verde {
+    background-color: green;
+    line-height: 100px;
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
